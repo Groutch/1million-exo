@@ -1,0 +1,44 @@
+/* Vos customisations des classes de Bootstrap */
+#home{
+    background: url(../images/hero-image.jpg) no-repeat;
+    background-size: cover;
+}
+h2{
+    color: #E34048;
+}
+hr{
+    border-color: #E34048;
+    height: 1px;
+    width:150px;
+}
+.jumbotron{
+    margin:0px;
+    color: white;
+}
+.navbar{
+    margin:0px;
+    background-color: #272727;
+}
+.container{
+    width: 75%;
+}
+body{
+    font-family: "Arvo";
+}
+#get-involved{
+    background-color: #F5F5F5;
+}
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
